@@ -1,2 +1,3 @@
-for i in range(10):
-    print("Iteration:", i)
+while i < 10:
+    print(i)
+    i += 1
